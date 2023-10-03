@@ -43,7 +43,7 @@
         </tr>
         <tr>
             <td class="col">3</td>
-            <td cosspan="2" class="cen">Дифю рівн. (пр.) Стельмащук Л.В.</td>
+            <td cosspan="2" class="cen">Диф. рівн. (пр.) Стельмащук Л.В.</td>
             <td cosspan="2" class="cen">126</td>
         </tr>
                 <tr>
