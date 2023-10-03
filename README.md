@@ -29,7 +29,6 @@
             <td rowspan="2" class="col">1</td>
             <td rowspan="2" class="cen">ООП (пр) Бойко О.І.</td>
             <td rowspan="2" class="cen">218</td>
-        </tr>
-        
+        </tr>        
 </body>
 </html> 
