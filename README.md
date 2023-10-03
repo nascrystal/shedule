@@ -18,8 +18,18 @@
                 <td>
                     Група П-31
                 </td>
+                <td>
+                    Ауд.
+                </td>
+                
             </tr>
         </thead>
+        <tr>
+            <td rowspan="7" class="day-cell rotare-text">Понеділок</td>
+            <td rowspan="2" class="col">1</td>
+            <td rowspan="2" class="cen">ООП (пр) Бойко О.І.</td>
+            <td rowspan="2" class="cen">218</td>
+        </tr>
         
 </body>
 </html> 
