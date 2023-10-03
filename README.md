@@ -47,7 +47,7 @@
             <td cosspan="2" class="cen">126</td>
         </tr>
                 <tr>
-            <td rowspan="2" class="col">4</td>
+            <td class="col">4</td>
             <td cosspan="2" class="cen">Охорона праці (л) Трач Р.І.</td>
             <td cosspan="2" class="cen">218</td>
         </tr>
