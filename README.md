@@ -55,35 +55,5 @@
             <td cosspan="2" class="cen">Соціологія (с) Мацко Н.С.</td>
             <td cosspan="2" class="cen">218</td>
         </tr>
-         <tr>
-            <td rowspan="7" class="day-cell rotare-text">Вівторок</td>
-            <td rowspan="2" class="col">1</td>
-            <td cosspan="2" class="cen">ООП (пр) Бойко О.І.</td>
-            <td cosspan="2" class="cen">218</td>
-        </tr>
-        <tr>
-            <td cosspan="2" class="cen">Web-техн. (л) Чаплінський Р.І.</td>
-            <td cosspan="2" class="cen">218</td>
-        </tr>
-        <tr>
-            <td class="col">2</td>
-            <td cosspan="2" class="cen">СКВ (л) Чаплінський Р.І.</td>
-            <td cosspan="2" class="cen">119</td>
-        </tr>
-        <tr>
-            <td class="col">3</td>
-            <td cosspan="2" class="cen">Диф. рівн. (пр.) Стельмащук Л.В.</td>
-            <td cosspan="2" class="cen">126</td>
-        </tr>
-                <tr>
-            <td class="col">4</td>
-            <td cosspan="2" class="cen">Охорона праці (л) Трач Р.І.</td>
-            <td cosspan="2" class="cen">218</td>
-        </tr>
-        <tr>
-            <td cosspan="2" class="cen">Соціологія (с) Мацко Н.С.</td>
-            <td cosspan="2" class="cen">218</td>
-        </tr>
-        
 </body>
 </html> 
