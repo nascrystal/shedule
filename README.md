@@ -46,5 +46,15 @@
             <td cosspan="2" class="cen">Дифю рівн. (пр.) Стельмащук Л.В.</td>
             <td cosspan="2" class="cen">126</td>
         </tr>
+                <tr>
+            <td rowspan="7" class="day-cell rotare-text">Понеділок</td>
+            <td rowspan="2" class="col">1</td>
+            <td cosspan="2" class="cen">Охорона праці (л) Трач Р.І.</td>
+            <td cosspan="2" class="cen">218</td>
+        </tr>
+        <tr>
+            <td cosspan="2" class="cen">Соціологія (с) Мацко Н.С.</td>
+            <td cosspan="2" class="cen">218</td>
+        </tr>
 </body>
 </html> 
